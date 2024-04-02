@@ -4,7 +4,8 @@ import { MdWork } from "react-icons/md";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center p-24 gap-1">
+    <main className="flex min-h-screen flex-col items-center p-4 md:p-16 gap-1">
+      <hr className="h-8"/>
       <h1>
         cereme (Sangyun Pae)
       </h1>
