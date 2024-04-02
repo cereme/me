@@ -32,6 +32,10 @@ body {
     }
 }
 
+h1 {
+  @apply text-2xl font-bold;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
